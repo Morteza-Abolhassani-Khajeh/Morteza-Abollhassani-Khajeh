@@ -24,5 +24,78 @@
 <pubDate>Tue, 16 Jul 2024 08:42:48 +0330</pubDate>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">mortezaabolhasanikhaje</dc:creator>
 </item>
+  <!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحه اصلی</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            padding: 14px 20px;
+            display: block;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>به وبسایت مرتضی ابوالحسنی خواجه خوش آمدید</h1>
+</header>
+
+<nav>
+    <a href="#">خانه</a>
+    <a href="#">درباره ما</a>
+    <a href="#">خدمات</a>
+    <a href="#">تماس با ما</a>
+</nav>
+
+<section>
+    <h2>درباره ما</h2>
+    <p>این یک وبسایت نمونه است که با استفاده از HTML ساخته شده است. در اینجا می‌توانید اطلاعات مربوط به ما و خدمات ما را مشاهده کنید.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 تمامی حقوق محفوظ است.</p>
+</footer>
+
+</body>
+</html>
 </channel>
 </rss>
